@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chosense.Graph.Client", "Chosense.Graph.Client\Chosense.Graph.Client.csproj", "{677CBFB7-BDD8-4920-B7DB-99E7111C9096}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chosense.Graph.Client", "Chosense.Graph.Client.csproj", "{677CBFB7-BDD8-4920-B7DB-99E7111C9096}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
